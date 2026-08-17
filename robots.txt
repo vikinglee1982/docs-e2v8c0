@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-0vpwab.leogaming.cfd/sitemap.xml
